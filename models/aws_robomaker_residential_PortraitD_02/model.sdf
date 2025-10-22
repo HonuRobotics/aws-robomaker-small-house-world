@@ -17,7 +17,7 @@
       </collision>
 
       <visual name="visual">
-	    < >
+        <geometry>
           <mesh>
             <uri>model://aws_robomaker_residential_PortraitD_02/meshes/aws_PortraitD_01_visual.DAE</uri>
           </mesh>
@@ -25,6 +25,6 @@
         <meta> <layer> 2 </layer></meta>
       </visual>
     </link>
-	<static>1</static>
+    <static>1</static>
   </model>
 </sdf>
