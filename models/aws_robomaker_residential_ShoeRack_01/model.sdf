@@ -13,7 +13,6 @@
           <iyz>0</iyz>
           <ixx>1</ixx>
         </inertia>
-          </inertia>
       </inertial>
 
       <collision name="aws_shoerack_01_collision_collider_box">
