@@ -80,16 +80,16 @@
           </box>
         </geometry>
       </collision>
-      <collision name="collision">
+      <!-- <collision name="collision"> -->
         <!-- Maintained surface properties from previous collision -->
-        <surface>
+        <!-- <surface>
           <contact>
             <ode>
               <max_vel>0.01</max_vel>
             </ode>
           </contact>
          </surface>
-      </collision>
+      </collision> -->
 
       <visual name="visual">
 	    <geometry>
