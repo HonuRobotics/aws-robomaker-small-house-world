@@ -40,9 +40,9 @@
       <collision name="aws_chandelier_01_collision_collider_sphere">
         <pose>0.001882 -0.009373 0.864851 0.0 -0.0 0.0</pose>
         <geometry>
-          <ellipsoid>
-            <radii>0.073626 0.073626 0.073626</radii>
-          </ellipsoid>
+          <sphere>
+            <radius>0.073626</radius>
+          </sphere>
         </geometry>
       </collision>
       <visual name="visual">

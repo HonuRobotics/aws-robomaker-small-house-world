@@ -19,9 +19,9 @@
 
         <pose>0.0 0.0 0.0 0.0 -0.0 0.0</pose>
         <geometry>
-          <ellipsoid>
-            <radii>0.322048 0.322048 0.322048</radii>
-          </ellipsoid>
+          <sphere>
+            <radius>0.31</radius>
+          </sphere>
         </geometry>
 
         <surface>
